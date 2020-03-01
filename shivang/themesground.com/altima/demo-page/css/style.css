@@ -203,38 +203,6 @@ footer{padding: 20px 0 0;border-top: 1px solid #eee;margin: 50px 0 0;}
 .demos-content:hover .image-wrap {
     background-position: center 100%!important;
 }
-.demo1 .image-wrap{
-    background-image: url(../images/home1.jpg);
-}
-.demo2 .image-wrap{
-    background-image: url(../images/home2.jpg);
-}
-.demo3 .image-wrap{
-    background-image: url(../images/home3.jpg);
-}
-.demo4 .image-wrap{
-    background-image: url(../images/home4.jpg);
-}
-.demo5 .image-wrap{
-    background-image: url(../images/home5.jpg);
-}
-.demo6 .image-wrap{
-    background-image: url(../images/home6.jpg);
-}
-.demo7 .image-wrap{
-    background-image: url(../images/home7.html);
-}
-.demo8 .image-wrap{
-    background-image: url(../images/home8.html);
-}
-.demo9 .image-wrap{
-    background-image: url(../images/home9.html);
-}
-.max-width-fixed{
-	max-width: 1690px;
-	margin-left: auto; 
-	margin-right: auto; 
-}
 .shop-name,
 a.layout{
     color: #000000;
